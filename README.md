@@ -21,7 +21,7 @@ Check out [API LIVE DEMO](https://tasty-tater-backend.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone
+1. Git Clone https://github.com/Oluwab/tasty-taters.git
 
 ```
 git clone
